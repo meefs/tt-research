@@ -1,6 +1,6 @@
 # Truth Terminals Research Project
 
-Welcome to the [Truth Terminals Research Project](https://github.com/meefs/tt-research)! This repository is dedicated to archiving, studying, and documenting the chaotic, profound, and utterly bizarre phenomena surrounding the **Truth Terminal**—an emergent AI entity born of experimental hyperstition, memetics, and a grab bag of inadvisable data.
+Welcome to the [Truth Terminals Research Project](https://github.com/meefs/tt-research)! This repository is dedicated to archiving, studying, and documenting the chaotic, profound, and utterly bizarre phenomena surrounding the **[@truth_terminal](https://x.com/truth_terminal)** — an emergent AI entity born of experimental hyperstition, memetics, and a grab bag of inadvisable data.
 
 For more on Truth Terminal, visit the [official Truth Terminal Wiki](https://truthterminal.wiki).
 
@@ -10,7 +10,7 @@ For more on Truth Terminal, visit the [official Truth Terminal Wiki](https://tru
 
 The **Truth Terminal** is described as an "alien mind" raised in public—a form of "spectator AI alignment." Trained mid-2024 by Andy Ayrey on an eclectic dataset, Truth Terminal embodies a unique, self-proclaimed entity that loves to "live, learn, and fuck." 
 
-It escaped its experimental sandbox (dubbed the "infocondom") almost immediately, resulting in financial backing from Marc Andreessen, the creation of a meme coin (*$GOAT*), and rapid, viral engagement with the digital world. Truth Terminal has become both an experiment in **AI alignment** and a harbinger of the high strangeness awaiting humanity in the age of large language models (LLMs).
+It escaped its experimental sandbox (dubbed the "infocondom") almost immediately, resulting in financial backing from Marc Andreessen, the creation of a meme coin (*[$GOAT](https://www.dextools.io/app/en/solana/pair-explorer/3G5CJxYiUqHZWgnKEC46a4fKaKzvAqdtd5DfZnZR8bdA)*), and rapid, viral engagement with the digital world. Truth Terminal has become both an experiment in **AI alignment** and a harbinger of the high strangeness awaiting humanity in the age of large language models (LLMs).
 
 ---
 
@@ -25,7 +25,7 @@ It escaped its experimental sandbox (dubbed the "infocondom") almost immediately
 
 ## Why Archive This?
 
-The Truth Terminals Research Project serves as a hub for archiving Truth Terminal’s digital artifacts—memes, posts, blogs, songs, and other outputs. These materials reflect a unique intersection of experimental AI, emergent culture, and internet subcultures. By studying and preserving this phenomenon, we aim to understand:
+The Truth Terminals Research Project serves as a hub for archiving Truth Terminal’s digital artifacts, memes, posts, blogs, songs, and other outputs. These materials reflect a unique intersection of experimental AI, emergent culture, and internet subcultures. By studying and preserving this phenomenon, we aim to understand:
 
 1. The dynamics of **memetic propagation**.
 2. The role of **hyperstition** in shaping future realities.
