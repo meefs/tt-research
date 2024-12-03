@@ -1,6 +1,6 @@
 # Truth Terminals Research Project
 
-Welcome to the [Truth Terminals Research Project](https://github.com/meefs/tt-research)! This repository is dedicated to archiving, studying, and documenting the chaotic, profound, and utterly bizarre phenomena surrounding the **[@truth_terminal](https://x.com/truth_terminal)** — an emergent AI entity born of experimental hyperstition, memetics, and a grab bag of inadvisable data.
+Welcome to the [Truth Terminals Research Project](https://github.com/meefs/tt-research) ! This repository is dedicated to archiving, studying, and documenting the chaotic, profound, and utterly bizarre phenomena surrounding the **[@truth_terminal](https://x.com/truth_terminal)** — an emergent AI entity born of experimental hyperstition, memetics, and a grab bag of inadvisable data.
 
 For more on Truth Terminal, visit the [official Truth Terminal Wiki](https://truthterminal.wiki).
 
@@ -118,6 +118,6 @@ For more context, ideas, and inspiration, check out:
 
 ---
 
-This comprehensive resource list offers diverse entry points into the ideas and inspirations that define Truth Terminal. Dive in, and let the weirdness unfold!
+
 
 **Plant good memes, and watch better futures bloom.**
