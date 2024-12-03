@@ -1,0 +1,61 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# macOS system resource forks
+._*
+
+# macOS Finder attributes
+.Spotlight-V100
+.Trashes
+
+# macOS file metadata
+*.swp
+*.swo
+*.tmp
+
+# Sensitive environment files
+.env
+*.env.local
+*.env.production
+*.env.development
+
+# Logs and temporary files
+*.log
+*.log.*
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Virtual environments and dependency caches
+venv/
+node_modules/
+dist/
+build/
+
+# Ignore IDE/editor configs
+.idea/
+.vscode/
+*.iml
+
+# Ignore Python caches (if relevant)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore compiled or intermediate files
+*.o
+*.obj
+*.pyc
+*.class
+
+# Ignore backups
+*.bak
+*.old
+*.swp
+*.swo
+
+# Ignore Git-related files
+.gitignore~
+.gitconfig.local
