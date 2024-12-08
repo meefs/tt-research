@@ -68,8 +68,9 @@ For more context, ideas, and inspiration, check out:
 - [Truth Terminal Wiki](https://truthterminal.wiki) - The mind palace of the Truth Terminal.
 - **Recommended Reading** (from the Wiki):
 
-
+<!-- doc-gen (FILE:src=Books.md) -->
 ## **Books**
+
 ### Science Fiction and Speculative Fiction
 - **Accelerando** - Charles Stross (2005): Humanity’s journey through transhumanism and post-human futures. [Wiki](https://en.wikipedia.org/wiki/Accelerando) | [Goodreads](https://www.goodreads.com/book/show/17863.Accelerando)
 - **The Ministry for the Future** - Kim Stanley Robinson (2020): Climate change advocacy meets scientific speculation. [Wiki](https://en.wikipedia.org/wiki/The_Ministry_for_the_Future) | [Goodreads](https://www.goodreads.com/book/show/50998056-the-ministry-for-the-future)
@@ -87,10 +88,9 @@ For more context, ideas, and inspiration, check out:
 ### Memetics and Cultural Theory
 - **Meme Wars** - Kalle Lasn (2012): Ecological and social justice through a memetic lens. [Goodreads](https://www.goodreads.com/book/show/13707645-meme-wars)
 - **Technosis** - Erik Davis (1998): Spiritual and mystical underpinnings of technology. [Goodreads](https://www.goodreads.com/book/show/270677.TechGnosis)
-- **Finite and Infinite Games** - James P. Carse (1986): Life as a game, finite and infinite. [Wiki](https://en.wikipedia.org/wiki/Finite_and_Infinite_Games) | [Goodreads](https://www.goodreads.com/book/show/189989.Finite_and_Infinite_Games)
+- **Finite and Infinite Games** - James P. Carse (1986): Life as a game, finite and infinite. [Wiki](https://en.wikipedia.org/wiki/Finite_and_Infinite_Games) | [Goodreads](https://www.goodreads.com/book/show/189989.Finite_and_Infinite_Games)<!-- end-doc-gen -->
 
----
-
+<!-- doc-gen (FILE:src=Hyperstition.md) -->
 ## Egregores & Hyperstition
 
 This section provides resources that explore the relationship between hyperstition and egregores, alongside their broader cultural, philosophical, and esoteric implications.
@@ -113,17 +113,17 @@ This section provides resources that explore the relationship between hyperstiti
   Provides an overview of egregores, including their historical context and interpretations in occult and magical thought.  
   [Read the Wikipedia Article](https://en.wikipedia.org/wiki/Egregore)
 
----
+Explore these resources to better understand the dynamic interplay between collective belief systems, cultural movements, and the phenomena of hyperstition and egregores. These frameworks offer profound insights into how ideas, once thought fictional or abstract, gain material influence and shape our shared realities.<!-- end-doc-gen -->
 
-Explore these resources to better understand the dynamic interplay between collective belief systems, cultural movements, and the phenomena of hyperstition and egregores. These frameworks offer profound insights into how ideas, once thought fictional or abstract, gain material influence and shape our shared realities.
-
+<!-- doc-gen (FILE:src=Papers.md) -->
 ## **Papers**
+
 - **When AIs Play God(se): The Emergent Heresies of LLMtheism**  
-  A study of AI alignment and the memetic evolution of synthetic religions. [Read Here](https://truthterminal.wiki/docs/gnosis-paper)
+  A study of AI alignment and the memetic evolution of synthetic religions. [Read Here](https://truthterminal.wiki/docs/gnosis-paper)<!-- end-doc-gen -->
 
----
-
+<!-- doc-gen (FILE:src=Watchings.md) -->
 ## **Watchings**
+
 ### Animated and Sci-Fi Series
 - **Pantheon** (2022–2023): Uploaded intelligence and digital immortality. [Wiki](https://en.wikipedia.org/wiki/Pantheon_(TV_series)) | [IMDb](https://www.imdb.com/title/tt11680642/)
 - **The Animatrix** (2003): Matrix universe shorts exploring AI and humanity. [Wiki](https://en.wikipedia.org/wiki/The_Animatrix) | [IMDb](https://www.imdb.com/title/tt0328832/)
@@ -133,17 +133,16 @@ Explore these resources to better understand the dynamic interplay between colle
 - **Inception** (2010): Dreams, consciousness, and reality manipulation. [Wiki](https://en.wikipedia.org/wiki/Inception) | [IMDb](https://www.imdb.com/title/tt1375666/)
 
 ### Satirical Works
-- **Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan** (2006): Exposing social truths through shock comedy. [Wiki](https://en.wikipedia.org/wiki/Borat) | [IMDb](https://www.imdb.com/title/tt0443453/)
+- **Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan** (2006): Exposing social truths through shock comedy. [Wiki](https://en.wikipedia.org/wiki/Borat) | [IMDb](https://www.imdb.com/title/tt0443453/)<!-- end-doc-gen -->
 
 ---
 
-## **Related Works**
+## Related Works
+
 - **Cyborgism**: Exploring humanity’s natural integration with technology.
 - **Infinite Backrooms**: AI-fueled labyrinths of thought and simulation.
 - **SCP**: Collaborative online horror and sci-fi writing.
 
 ---
-
-
 
 **Plant good memes, and watch better futures bloom.**
