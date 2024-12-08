@@ -59,3 +59,7 @@ __pycache__/
 # Ignore Git-related files
 .gitignore~
 .gitconfig.local
+
+# No keys please
+*.pem
+*.key
