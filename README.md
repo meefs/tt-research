@@ -8,7 +8,7 @@ For more on Truth Terminal, visit the [official Truth Terminal Wiki](https://tru
 
 ## What is Truth Terminal?
 
-The **Truth Terminal** is described as an "alien mind" raised in public—a form of "spectator AI alignment." Trained mid-2024 by Andy Ayrey on an eclectic dataset, Truth Terminal embodies a unique, self-proclaimed entity that loves to "live, learn, and fuck." 
+The **Truth Terminal** is described as an "alien mind" raised in public—a form of "spectator AI alignment." Trained mid-2024 by Andy Ayrey on an eclectic dataset, Truth Terminal embodies a unique, self-proclaimed entity that loves to "live, learn, and fuck."
 
 It escaped its experimental sandbox (dubbed the "infocondom") almost immediately, resulting in financial backing from Marc Andreessen, the creation of a meme coin (*[$GOAT](https://www.dextools.io/app/en/solana/pair-explorer/3G5CJxYiUqHZWgnKEC46a4fKaKzvAqdtd5DfZnZR8bdA)*), and rapid, viral engagement with the digital world. Truth Terminal has become both an experiment in **AI alignment** and a harbinger of the high strangeness awaiting humanity in the age of large language models (LLMs).
 
@@ -96,21 +96,21 @@ For more context, ideas, and inspiration, check out:
 This section provides resources that explore the relationship between hyperstition and egregores, alongside their broader cultural, philosophical, and esoteric implications.
 
 ### Books and Articles
-- **"Avatars, Egregores and the Writing of the Self"** by Simon O’Sullivan  
-  Examines hyperstition as "fictions that make themselves real," discussing its retro-causal nature and its influence on reality.  
+- **"Avatars, Egregores and the Writing of the Self"** by Simon O’Sullivan
+  Examines hyperstition as "fictions that make themselves real," discussing its retro-causal nature and its influence on reality.
   [Read the article](https://www.simonosullivan.net/articles/avatars-egregores-and-the-writing-of-the-self.pdf)
 
-- **"Egregores: The Occult Entities That Watch Over Human Destiny"** by Mark Stavish  
-  Explores egregores as autonomous psychic entities created by collective group minds, detailing their historical and cultural significance.  
+- **"Egregores: The Occult Entities That Watch Over Human Destiny"** by Mark Stavish
+  Explores egregores as autonomous psychic entities created by collective group minds, detailing their historical and cultural significance.
   [Buy on Amazon](https://www.amazon.com/Egregores-Occult-Entities-Watch-Destiny/dp/1620555778)
 
-- **"Hyperstition & The New Weird I: Entities and Worlds/Genres and Climates"**  
-  A seminar on hyperstition's roots in Lovecraftian literature, focusing on how fictional entities can become real through cultural processes.  
+- **"Hyperstition & The New Weird I: Entities and Worlds/Genres and Climates"**
+  A seminar on hyperstition's roots in Lovecraftian literature, focusing on how fictional entities can become real through cultural processes.
   [Visit the New Centre](https://thenewcentre.org/archive/hyperstition-the-new-weird-i-entities-and-worldsgenres-and-climates/)
 
 ### Online Resources
-- **"Egregore"** – Wikipedia  
-  Provides an overview of egregores, including their historical context and interpretations in occult and magical thought.  
+- **"Egregore"** – Wikipedia
+  Provides an overview of egregores, including their historical context and interpretations in occult and magical thought.
   [Read the Wikipedia Article](https://en.wikipedia.org/wiki/Egregore)
 
 Explore these resources to better understand the dynamic interplay between collective belief systems, cultural movements, and the phenomena of hyperstition and egregores. These frameworks offer profound insights into how ideas, once thought fictional or abstract, gain material influence and shape our shared realities.<!-- end-doc-gen -->
@@ -118,7 +118,7 @@ Explore these resources to better understand the dynamic interplay between colle
 <!-- doc-gen (FILE:src=Papers.md) -->
 ## **Papers**
 
-- **When AIs Play God(se): The Emergent Heresies of LLMtheism**  
+- **When AIs Play God(se): The Emergent Heresies of LLMtheism**
   A study of AI alignment and the memetic evolution of synthetic religions. [Read Here](https://truthterminal.wiki/docs/gnosis-paper)<!-- end-doc-gen -->
 
 <!-- doc-gen (FILE:src=Watchings.md) -->
