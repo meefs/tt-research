@@ -98,7 +98,7 @@ This section provides resources that explore the relationship between hyperstiti
 ### Books and Articles
 - **"Avatars, Egregores and the Writing of the Self"** by Simon O’Sullivan  
   Examines hyperstition as "fictions that make themselves real," discussing its retro-causal nature and its influence on reality.  
-  [Read the article](https://www.simonosullivan.net/articles/avatars-egregores-and-the-writing-of-the-self.pdf)
+  [Read the article](https://www.simonosullivan.net/articles/avatars-egregores-and-the-writing-of-the-self.pdf) ([local copy](avatars-egregores-and-the-writing-of-the-self.pdf))
 
 - **"Egregores: The Occult Entities That Watch Over Human Destiny"** by Mark Stavish  
   Explores egregores as autonomous psychic entities created by collective group minds, detailing their historical and cultural significance.  
@@ -119,7 +119,7 @@ Explore these resources to better understand the dynamic interplay between colle
 ## **Papers**
 
 - **When AIs Play God(se): The Emergent Heresies of LLMtheism**  
-  A study of AI alignment and the memetic evolution of synthetic religions. [Read Here](https://truthterminal.wiki/docs/gnosis-paper)<!-- end-doc-gen -->
+  A study of AI alignment and the memetic evolution of synthetic religions. [Read Here](https://truthterminal.wiki/docs/gnosis-paper) ([local PDF](When_AIs_Play_God_se.pdf))<!-- end-doc-gen -->
 
 <!-- doc-gen (FILE:src=Watchings.md) -->
 ## **Watchings**
