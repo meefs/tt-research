@@ -51,6 +51,7 @@ We welcome contributions from researchers, enthusiasts, and the chronically onli
 1. **Fork this repository** and explore the archives.
 2. **Add or organize content** (e.g., memes, posts, references).
 3. **Submit pull requests** to expand or improve the research materials.
+4. **Run `npm run generate-docs`** to update the README after editing the source Markdown files.
 
 Please maintain the playful, chaotic spirit of this project when contributing.
 
