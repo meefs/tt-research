@@ -3,6 +3,7 @@
     "generate-docs": "markdown-magic README.md"
   },
   "devDependencies": {
-    "markdown-magic": "^3.3.0"
+    "markdown-magic": "^3.3.0",
+    "markdown-magic-file-transform": "^1.0.0"
   }
 }
